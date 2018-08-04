@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\HP\\Downloads\\FLIROneSDK-Android_3_0_1\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\a0db3a90673ea44d0fe24ba0558450bf9c03d305\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\FLIROneSDK-Android_3_0_1\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a0db3a90673ea44d0fe24ba0558450bf9c03d305\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\FLIROneSDK-Android_3_0_1\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a0db3a90673ea44d0fe24ba0558450bf9c03d305\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\FLIROneSDK-Android_3_0_1\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a0db3a90673ea44d0fe24ba0558450bf9c03d305\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Downloads\\FLIROneSDK-Android_3_0_1\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a0db3a90673ea44d0fe24ba0558450bf9c03d305\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

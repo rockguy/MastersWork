@@ -1,0 +1,7 @@
+#Sat Jul 07 14:02:10 IRKT 2018
+base.0=C\:\\Users\\HP\\Downloads\\FLIROneSDK-Android_3_0_1\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d1d5fbed1aa8b5dc8e364d562ffc77c041099eb9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\HP\\Downloads\\FLIROneSDK-Android_3_0_1\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9dfde4ded925cc120afdd0e50a6051641c28a8f6\\classes.dex
+base.1=C\:\\Users\\HP\\Downloads\\FLIROneSDK-Android_3_0_1\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9dfde4ded925cc120afdd0e50a6051641c28a8f6
+file.0=C\:\\Users\\HP\\Downloads\\FLIROneSDK-Android_3_0_1\\FLIROneSDKBundle\\FLIRONEExampleApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d1d5fbed1aa8b5dc8e364d562ffc77c041099eb9\\classes.dex

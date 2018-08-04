@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:5:5-52:19
+MERGED from [:flironesdk:] C:\Users\HP\.android\build-cache\4d9e3779f2a7bc44bc3ff2dddfd0778fd2f18bff\output\AndroidManifest.xml:14:5-17:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP\.android\build-cache\a0db3a90673ea44d0fe24ba0558450bf9c03d305\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\HP\.android\build-cache\45cc585f042ef16c3672368b3faf9959b9572ab3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HP\.android\build-cache\ff36255e7b8c038cf9ae731a440edd29397450dc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP\.android\build-cache\7921cdc5e4a06d4c6705ff721cd373c45ec3c8c9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP\.android\build-cache\dca736c1c18634065bd5db4d46b7485dfdce7c24\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP\.android\build-cache\faccba5e74fa4baaee04c793cc05eef14d6a4c2b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP\.android\build-cache\3f9283daa86cdc7562f021885c70a1494b7fd7bb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP\.android\build-cache\e20ba91d19f79815dabc8c3af14d3abf485538ee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP\.android\build-cache\434a94817b1e53e22d189bcf629e10606ea52f20\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP\.android\build-cache\8986259536943f62fa435f1a02ace53abdc77b4f\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:8:9-41
+	android:versionName
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:11:9-34
+	android:versionCode
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:10:9-32
+	android:allowBackup
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.flir.flironeexampleapplication.EditorActivity
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:13:13-49
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:12:19-49
+intent-filter#android.intent.action.EDIT+android.intent.action.PICK+android.intent.action.SEND+android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:14:13-21:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:15:25-66
+action#android.intent.action.EDIT
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:16:25-66
+action#android.intent.action.PICK
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:17:25-66
+action#android.intent.action.SEND
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:19:27-73
+data
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:20:17-55
+	android:mimeType
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:20:23-52
+activity#com.flir.flironeexampleapplication.GLPreviewActivity
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:23:9-50:20
+	android:screenOrientation
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:27:13-45
+	android:launchMode
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:28:13-44
+	android:configChanges
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:26:13-74
+	android:theme
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:29:13-51
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:24:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:33:27-74
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:45:17-90
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:45:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:48:13-49:64
+	android:resource
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:49:24-61
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:48:24-86
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:53:5-80
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:53:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:54:5-66
+MERGED from [:flironesdk:] C:\Users\HP\.android\build-cache\4d9e3779f2a7bc44bc3ff2dddfd0778fd2f18bff\output\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml:54:22-64
+uses-sdk
+INJECTED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [:flironesdk:] C:\Users\HP\.android\build-cache\4d9e3779f2a7bc44bc3ff2dddfd0778fd2f18bff\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP\.android\build-cache\a0db3a90673ea44d0fe24ba0558450bf9c03d305\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\HP\.android\build-cache\45cc585f042ef16c3672368b3faf9959b9572ab3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HP\.android\build-cache\ff36255e7b8c038cf9ae731a440edd29397450dc\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP\.android\build-cache\7921cdc5e4a06d4c6705ff721cd373c45ec3c8c9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP\.android\build-cache\dca736c1c18634065bd5db4d46b7485dfdce7c24\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP\.android\build-cache\faccba5e74fa4baaee04c793cc05eef14d6a4c2b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP\.android\build-cache\3f9283daa86cdc7562f021885c70a1494b7fd7bb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP\.android\build-cache\e20ba91d19f79815dabc8c3af14d3abf485538ee\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP\.android\build-cache\434a94817b1e53e22d189bcf629e10606ea52f20\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP\.android\build-cache\8986259536943f62fa435f1a02ace53abdc77b4f\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP\.android\build-cache\a0db3a90673ea44d0fe24ba0558450bf9c03d305\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Downloads\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:flironesdk:] C:\Users\HP\.android\build-cache\4d9e3779f2a7bc44bc3ff2dddfd0778fd2f18bff\output\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [:flironesdk:] C:\Users\HP\.android\build-cache\4d9e3779f2a7bc44bc3ff2dddfd0778fd2f18bff\output\AndroidManifest.xml:11:22-62
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP\.android\build-cache\a0db3a90673ea44d0fe24ba0558450bf9c03d305\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\HP\.android\build-cache\45cc585f042ef16c3672368b3faf9959b9572ab3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HP\.android\build-cache\ff36255e7b8c038cf9ae731a440edd29397450dc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP\.android\build-cache\7921cdc5e4a06d4c6705ff721cd373c45ec3c8c9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP\.android\build-cache\dca736c1c18634065bd5db4d46b7485dfdce7c24\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP\.android\build-cache\faccba5e74fa4baaee04c793cc05eef14d6a4c2b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP\.android\build-cache\3f9283daa86cdc7562f021885c70a1494b7fd7bb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP\.android\build-cache\e20ba91d19f79815dabc8c3af14d3abf485538ee\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP\.android\build-cache\434a94817b1e53e22d189bcf629e10606ea52f20\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP\.android\build-cache\a0db3a90673ea44d0fe24ba0558450bf9c03d305\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP\.android\build-cache\a0db3a90673ea44d0fe24ba0558450bf9c03d305\output\AndroidManifest.xml:26:9-47
